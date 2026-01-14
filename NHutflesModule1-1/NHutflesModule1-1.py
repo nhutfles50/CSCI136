@@ -99,7 +99,7 @@ def checkSpelling(reference, toCheck):
 
 
 
-#
+#main function to run the program and its constiuent functions
 def main():
 
     #open the file of correctly spelled words
@@ -163,3 +163,4 @@ def main():
 #run program if __name__ is equal to __main__
 if __name__ == "__main__":
     main()
+
